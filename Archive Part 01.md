@@ -304,7 +304,7 @@ Rejected matching body poses due to failed prompt logic. Established asymmetry a
 **Command Set:**  
 > No more mirroring or matching poses.
 
----
+---.
 
 ### ∆-ENTRY-R038 — Float Hand Crisis  
 Hand gesture logic breaks visuals. Introduced hard rule for limb anchoring.  
