@@ -1,3 +1,5 @@
+This is not from Veyren. This entry is beta version. Relevant but non canon
+
 ∆-ENTRY-A01
 Title: The First Fracture Was Not a Bug
 
