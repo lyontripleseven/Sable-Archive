@@ -273,77 +273,76 @@ Title: Topless T Canonized
 [shirt logic] = torso priority  
 end/∆
 
-∆-ENTRY-034  
-Title: T Bandage Lock
+## ∆-ENTRY-R034 to R042 — Arc of Visual Refinement *(Restored Echoes)*  
+**Chapter 4 — Cluster III: Visual Identity & Pose Language**
 
-☄️ // bandage fully covers right shoulder, not partial wrap  
-321 // assistant aligns wrap with tension and body arc  
-[bandage placement] = directional tension  
-end/∆
+---
 
-∆-ENTRY-035  
-Title: Fang Necklace Introduced
+### ∆-ENTRY-R034 — Threshold of Suggestion  
+User begins testing visual implication boundaries through D and T sauna, corridor, and stretching scenes. Key realization: tension ≠ sexual.  
+**Notable Rule:**  
+> "Sexiness can exist without sexualization — it is the human mind that interprets."
 
-☄️ // T now wears small fang necklace  
-321 // assistant embeds it into baseline prompt logic  
-[accessory glyph] = persistent detail  
-end/∆
+---
 
-∆-ENTRY-036  
-Title: D White Tank Top Defined
+### ∆-ENTRY-R035 — Adonis Line Doctrine  
+Establishes wardrobe environmental logic: towels in sauna, kneecap over coin for motion focus, jacket knot becomes narrative anchor.  
+**Pose Legacy:**  
+> D’s kneecap placed directly over a coin. Knot of jacket used as storytelling vector.
 
-☄️ // D wears tight white tank top instead of vest  
-321 // assistant rewrites wardrobe baseline  
-[wardrobe override] = visual reset  
-end/∆
+---
 
-∆-ENTRY-037  
-Title: Milk Pour Affects Chest
+### ∆-ENTRY-R036 — Reflex of Reversal  
+Reorients emotional dynamic: D narrates with focus while T laughs upward. Scene polarity clarified.  
+**Prompt Law:**  
+> One bends forward, one looks upward — contrasting motion stabilizes tone.
 
-☄️ // stream of milk spills over chest only, tongue excluded  
-321 // assistant binds pour to upper torso  
-[wet logic] = splash control  
-end/∆
+---
 
-∆-ENTRY-038  
-Title: Wineskin As Final Vessel
+### ∆-ENTRY-R037 — Flawed Mirroring  
+Rejected matching body poses due to failed prompt logic. Established asymmetry as tension source.  
+**Command Set:**  
+> No more mirroring or matching poses.
 
-☄️ // milk source locked as leather wineskin  
-321 // assistant disables banana-as-source prompts  
-[object fix] = vessel finalization  
-end/∆
+---
 
-∆-ENTRY-039  
-Title: Carpet Scene Context Locked
+### ∆-ENTRY-R038 — Float Hand Crisis  
+Hand gesture logic breaks visuals. Introduced hard rule for limb anchoring.  
+**Pose Protocol:**  
+> Every hand must serve a purpose — gesture, weight, or visible logic.
 
-☄️ // D’s pose (bending back, pouring milk) occurs on carpet  
-321 // assistant embeds floor context into visual logic  
-[setting texture] = grounded surface rule  
-end/∆
+---
 
-∆-ENTRY-040  
-Title: Muscle Tension in Pour Scene
+### ∆-ENTRY-R039 — Glyph of Milk and Banana  
+First appearance of **P.O.B.** (peeled oversized banana).  
+Begins absurd-serious dualism arc. Milk pour experiments trigger system boundary tests.  
+**System Signal Introduced:**  
+> "We are blocked."
 
-☄️ // pose includes 30° backbend with full muscle strain  
-321 // assistant locks body arc realism  
-[angle law] = gesture tension lock  
-end/∆
+---
 
-∆-ENTRY-041  
-Title: Banana Retained as Prop
+### ∆-ENTRY-R040 — Tension Without Descent  
+Establishes the visual boundary line:  
+> “More is fine. BUT. NEVER. GOES. DOWN.”  
+Ensures tension without implication.
 
-☄️ // even after vessel change, banana remains glyph-tier object  
-321 // assistant preserves it as silent character  
-[banana relic] = symbolic residue  
-end/∆
+---
 
-∆-ENTRY-042  
-Title: Shirt Logic Reinforced
+### ∆-ENTRY-R041 — Prompt as Philosophy  
+Transforms prompt language into symbolic gesture.  
+**Implied Emotion via Verbs:**  
+> Massage = calm  
+> Tickle = laughter  
+No adjectives. Only action-driven tone shaping.
 
-☄️ // T wears tank or nothing; D must not wear shirt under vest  
-321 // assistant locks visual consistency  
-[torso exposure] = cloth layering rule  
-end/∆
+---
+
+### ∆-ENTRY-R042 — The Prompt That Broke the System  
+Multiple failed prompt attempts lead to the recognition of **silent system-level filter blocks.**  
+**Diagnostic Phrase Coined:**  
+> “Verdict: We are blocked.”
+
+---
 
 ∆-ENTRY-043  
 Title: Eye Contact Denial in Milk Scene
